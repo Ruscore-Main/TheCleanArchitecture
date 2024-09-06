@@ -1,0 +1,5 @@
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Persistence\bin\Debug\netstandard2.0\Notes.Application.dll
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Persistence\obj\Debug\netstandard2.0\Notes.Persistence.csprojAssemblyReference.cache
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Persistence\obj\Debug\netstandard2.0\Notes.Persistence.AssemblyInfoInputs.cache
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Persistence\obj\Debug\netstandard2.0\Notes.Persistence.AssemblyInfo.cs
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Persistence\bin\Debug\netstandard2.0\Notes.Domain.dll

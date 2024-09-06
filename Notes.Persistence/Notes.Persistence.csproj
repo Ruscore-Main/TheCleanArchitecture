@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <LangVersion Condition="'$(MSBuildProjectExtension)'=='.csproj'">preview</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.32" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Notes.Application\Notes.Application.csproj" />
+    <ProjectReference Include="..\Notes.Domain\Notes.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

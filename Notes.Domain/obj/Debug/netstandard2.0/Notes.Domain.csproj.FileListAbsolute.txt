@@ -1,0 +1,9 @@
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Domain\bin\Debug\netstandard2.0\Notes.Domain.deps.json
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Domain\bin\Debug\netstandard2.0\Notes.Domain.dll
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Domain\bin\Debug\netstandard2.0\Notes.Domain.pdb
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Domain\obj\Debug\netstandard2.0\Notes.Domain.csprojAssemblyReference.cache
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Domain\obj\Debug\netstandard2.0\Notes.Domain.AssemblyInfoInputs.cache
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Domain\obj\Debug\netstandard2.0\Notes.Domain.AssemblyInfo.cs
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Domain\obj\Debug\netstandard2.0\Notes.Domain.csproj.CoreCompileInputs.cache
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Domain\obj\Debug\netstandard2.0\Notes.Domain.dll
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Domain\obj\Debug\netstandard2.0\Notes.Domain.pdb

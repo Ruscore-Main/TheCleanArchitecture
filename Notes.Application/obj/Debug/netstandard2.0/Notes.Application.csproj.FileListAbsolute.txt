@@ -1,0 +1,4 @@
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Application\bin\Debug\netstandard2.0\Notes.Domain.dll
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Application\obj\Debug\netstandard2.0\Notes.Application.csprojAssemblyReference.cache
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Application\obj\Debug\netstandard2.0\Notes.Application.AssemblyInfoInputs.cache
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Application\obj\Debug\netstandard2.0\Notes.Application.AssemblyInfo.cs
