@@ -25,7 +25,7 @@ namespace Notes.Application.Notes.Commands.DeleteNote
                 throw new NotFoundException(nameof(Notes), request.Id);
             }
             _dbContext.Notes.Remove(foundNote);
-            await _dbContext.SaveChangesAsync();
+            await _dbContext.SaveChangesAsync(cancellationToken);
             return Unit.Value;
         }
     }
