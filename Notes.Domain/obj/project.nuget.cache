@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "n4fKGbcpiWgX+yuGIDw+lbwHVccFqABncZ0yVBgELUG2vZTUX0n+eFg7owXTZbfqMLkIZ2JcWr4Wf+n8Lzvdtg==",
+  "dgSpecHash": "AX3sD+70+Zm29RFJ6IfzxnR5ztPSRwr3w6vsy7lKLZu6InFsrpcnka94JzRpRFkz+3RbgkNVHoDaqqljJU0Zvg==",
   "success": true,
   "projectFilePath": "C:\\Programming\\ClearArchitecture\\Notes.Backend\\Notes.Domain\\Notes.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oobit\\.nuget\\packages\\automapper\\6.0.2\\automapper.6.0.2.nupkg.sha512",
+    "C:\\Users\\oobit\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\oobit\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\oobit\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\oobit\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
+    "C:\\Users\\oobit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\oobit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\oobit\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\oobit\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

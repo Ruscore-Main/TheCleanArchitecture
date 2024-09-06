@@ -1,0 +1,6 @@
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Application.dll
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Persistence\bin\Debug\net5.0\Notes.Domain.dll
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.csprojAssemblyReference.cache
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.AssemblyInfoInputs.cache
+C:\Programming\ClearArchitecture\Notes.Backend\Notes.Persistence\obj\Debug\net5.0\Notes.Persistence.AssemblyInfo.cs

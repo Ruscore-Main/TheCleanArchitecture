@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[6.0.2, )"
             },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.32, )"
@@ -111,6 +115,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[6.0.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
             }
           },
           "imports": [
